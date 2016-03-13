@@ -4,21 +4,21 @@
         <description><![CDATA[sp]]></description>
         <link>https://thegrid.ai/sp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 15:53:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 15:57:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#24HourProject_Cebu]]></title>
+            <description><![CDATA[<article><h1>#24HourProject_Cebu</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ea0dee509b302172bfd7aac2d07e654dc27fa23.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sp/3b2ac8fc-f53e-45f0-a7d7-660ddd70834f/index.html</link>
+            <guid isPermaLink="false">3b2ac8fc-f53e-45f0-a7d7-660ddd70834f</guid>
+            <pubDate>Sun, 13 Mar 2016 15:56:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My CargoCollective Portfolio site]]></title>
             <description><![CDATA[<h1>My CargoCollective Portfolio site</h1>]]></description>
             <link>https://thegrid.ai/sp/my-cargocollective-portfolio-site/index.html</link>
             <guid isPermaLink="false">adb75fb0-6041-43b8-bdde-df6060de2670</guid>
             <pubDate>Sun, 13 Mar 2016 12:13:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bedf0285-1de3-4559-8c4a-7b70281f3da7.jpg">]]></description>
-            <link>https://thegrid.ai/sp/3b2ac8fc-f53e-45f0-a7d7-660ddd70834f/index.html</link>
-            <guid isPermaLink="false">3b2ac8fc-f53e-45f0-a7d7-660ddd70834f</guid>
-            <pubDate>Sun, 13 Mar 2016 15:53:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
