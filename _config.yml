@@ -1,28 +1,40 @@
-name: sp
-favicon: null
 layout_spectrum: 0.9688355466350913
-typography_spectrum: 0.3787632614839822
-cta:
-  domain: null
-  bucket: null
-  version: null
+favicon: null
+name: sp
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.5106383
+  lightness: 0.7893617
+  saturation: 0.4340425
+  rhythmicContrast: 0.5234042
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.23580490937456489
-  lightness: 0.7706045021768659
-  saturation: 0.22793864528648555
-  rhythmicContrast: 0.2855761481914669
-purpose: []
+    - '#F2EFEC'
+    - '#0E1D27'
+    - '#02416E'
+    - '#D8A488'
+    - '#A3654B'
+typography_spectrum: 0.5021276
