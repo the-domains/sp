@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'urn:uuid:9c6b1172-9dfd-4d5f-a6e3-2e59fde5a257'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-13T15:58:05.807Z'
-dateModified: '2016-03-13T13:12:41.685Z'
+datePublished: '2016-03-13T16:08:26.712Z'
+dateModified: '2016-03-13T16:08:11.316Z'
 author: []
 title: My CargoCollective Portfolio site
 sourcePath: _posts/2016-03-13-my-cargocollective-portfolio-site.md
@@ -19,8 +18,11 @@ publisher:
   domain: ''
   url: null
   favicon: null
+url: my-cargocollective-portfolio-site/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# My CargoCollective Portfolio site
+# [My CargoCollective Portfolio site][0]
+
+[0]: cargocollective.com/scottpacaldo
