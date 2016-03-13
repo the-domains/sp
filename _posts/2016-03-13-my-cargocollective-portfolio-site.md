@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-13T16:08:26.712Z'
-dateModified: '2016-03-13T16:08:11.316Z'
+datePublished: '2016-03-13T16:12:22.247Z'
+dateModified: '2016-03-13T16:12:10.014Z'
 author: []
 title: My CargoCollective Portfolio site
 sourcePath: _posts/2016-03-13-my-cargocollective-portfolio-site.md
@@ -25,4 +25,4 @@ _type: Article
 ---
 # [My CargoCollective Portfolio site][0]
 
-[0]: cargocollective.com/scottpacaldo
+[0]: http://cargocollective.com/scottpacaldo
